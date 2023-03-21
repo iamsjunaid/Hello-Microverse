@@ -2,7 +2,4 @@
 node_modules/
 
 # Ignore .github folder
-.github
-
-# Ignore .github folder
 test.md
