@@ -1,5 +1,4 @@
 📖 Hello Microverse
-Describe your project in 1 or 2 sentences.
 
 Hello Microverse is a simple project. It is the first project created as part of microverse curriculam.
 
