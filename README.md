@@ -1,75 +1,68 @@
-📖 Hello Microverse
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Hello Microverse is a simple project. It is the first project created as part of microverse curriculam.
+# 📖 Hello Microverse
 
-🛠 Built With
-Tech Stack
+> •	Hello Microverse is a simple project. It is the first project created as part of Microverse curriculum.
 
-Client HTML/CSS
-Server NA
-Database NA
-Key Features
-Describe between 1-3 key features of the application.
+- _The main page shows a text "Hello Microverse!"._
+  ­
 
-It display "Hello Microverse!" when run in a browser
+## Built With
 
-💻 Getting Started
+- HTML & CSS
+- [Linters](https://github.com/microverseinc/linters-config/tree/master/html-css-js)
 
-To get a local copy up and running, follow these steps.
+## Video Description
 
-Prerequisites
-In order to run this project you need:
-A Code editor such as VSCode or atom and a browser
+View [video presentaton](https://www.awesomescreenshot.com/video/15817834?key=6aa71e50744b09954c38df0e778377a3)
 
-Setup
-Clone this repository to your desired folder and double click on index.html file.
+## Getting Started
 
-Install
-No installation needed
+### Prerequisites
 
-Usage
-To run the project, execute the following command:
-Just run the index.html file.
+- node.js (10.13.0 (LTS))
+- git
 
-Run tests
-To run tests, run the following command:
-There are not tests done on this project.
+### Setup
 
-Deployment
-You can deploy this project using:
-No deployment needed as it is a basic project.
+To get a local copy, follow the steps below:
 
-👥Authors
+1. Open your terminal
+2. Navigate to the directory where you want to clone the project.
+3. Clone the project using `git clone` or directly by running the following command
 
-👤Author1
+   `git clone git@github.com:iamsjunaid/Hello-Microverse.git`
 
-GitHub: @iamsjunaid
-Twitter: @junaidahmedsd
-LinkedIn: https://www.linkedin.com/in/junaid-syed-058b2779
+4. Open your editor and follow the steps mentioned below
 
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
+### Install
 
- I will add a paragraph.
- I am going to center align the text.
- Making everything aligned to center.
+- `npm install`
 
-🤝 Contributing
+### Usage
+
+- `npm run build`
+- `npm start`
+
+## Authors
+
+👤 **Author**
+
+- GitHub: [@iamsjunaid](https://github.com/iamsjunaid)
+- Twitter: [@junaidahmedsd](https://twitter.com/junaidahmedsd)
+- LinkedIn: [Junaid Ahmed](https://www.linkedin.com/in/junaid-syed-058b2779)
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/iamsjunaid/Hello-Microvese/issues).
 
-⭐️ Show your support
+## Show your support
 
-If you like this project give it a thumbs up👍
+Give a ⭐️ if you like this project!
 
-🙏 Acknowledgments
+## 📝 License
 
-I would like to thanks Microverse for helping me complete this project.
-
-📝 License
-This project is MIT licensed.
-
-
-
-
+This project is [MIT](./LICENSE) licensed.
